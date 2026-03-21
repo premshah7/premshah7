@@ -1,43 +1,17 @@
-<h1 align="center">Hi, I'm Prem 👋</h1>
+# 💫 About Me:
+ 🔭 Currently building web and mobile apps with MERN (Next JS) and Flutter.<br>💡 Interested in full‑stack architecture, database design, and performance‑oriented code. <br>🎯 Goal: Ship production‑ready projects and contribute more to open source.
 
-<p align="center">
-  <b>Full‑stack developer & Flutter enthusiast</b><br/>
-  Exploring clean UI, scalable backends, and real‑world problem solving.
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/premx.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prem-shah77) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PremShah1207) 
 
-## 🚀 About Me
-
-- 🔭 Currently building web and mobile apps with **MERN**, **Flutter**, and **Java**. [page:1]  
-- 💡 Interested in full‑stack architecture, database design, and performance‑oriented code. [page:1]  
-- 🎯 Goal: Ship production‑ready projects and contribute more to open source. [page:1]  
-
----
-
-## 🧰 Tech Stack
-
-- **Languages:** Java, JavaScript, TypeScript, Dart, SQL  
-- **Web:** React, Next.js, Node.js, Express, REST APIs  
-- **Mobile:** Flutter  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools:** Git & GitHub, VS Code, Android Studio, Figma  
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=premshah7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=premshah7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=premshah7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=premshah7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🏗️ Featured Projects
----------------------
-
-- 🔹 **todo-list** – Minimal yet powerful task manager with CRUD, filters, and clean UI. [page:22]  
-- 🔹 **Geoguard** – Security‑focused project using geolocation to monitor and protect access. [page:22]  
-- 🔹 **fuel_split** – Modern **Flutter** fuel tracker with live GPS, manual entry, and smart cost‑sharing for carpools and group trips. [page:22]  
-- 🔹 **MorseX** – Flutter app experimenting with encodings and mobile UI. [page:22]    
-
-👉 Check out more repositories on my profile pins and repo list.
-
----
-
-## 🌐 Connect
-
-- 💼 GitHub: [@premshah7](https://github.com/premshah7)  
-- ✉️ Feel free to reach out for collaboration, feedback, or project ideas!
